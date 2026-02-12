@@ -1,0 +1,79 @@
+.container{
+display: flex;
+
+}
+.box{
+    width: 50%;
+    box-sizing: border-box;
+}
+
+#searchbar a{
+    text-decoration: none;
+    margin: 5px;
+}
+#searchbar a:hover{
+    color: gray;
+}
+#searchbar input{
+    width: 200px;
+}
+#searchbar{
+    margin-top: 40px;
+}
+#navbar{
+    margin-right: 50px;
+}
+
+li{
+    list-style-type: none;
+    float: left;
+    background-color:hwb(213 43% 16%);
+    color: white;
+    padding: 20px;
+    overflow: hidden;   
+}
+li:hover{
+    background-color:hwb(213 2% 62% / 0.573) ;
+}
+li a{
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+}
+
+.even{
+    background-color: Gainsboro;
+}
+#box1{
+    display: 60%;
+   
+}
+#box2{
+    display: 40%;
+    border: 1px solid white;
+    width: 200px;
+    text-align: center;
+}
+table{
+    text-align: center;
+}
+
+.mainbox{
+    display: flex;
+}
+.mainbox h3{
+    text-align: center;
+}
+.footbox{
+    
+    display: flex;
+}
+#div1{
+    margin: 10px;
+}
+#div2{
+    margin: 10px;
+}
+#div3{
+    margin: 10px;
+}

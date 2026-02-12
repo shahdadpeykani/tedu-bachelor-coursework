@@ -1,0 +1,29 @@
+body{
+    
+    font-family: Helvetica, sans-serif;
+    background-color: #478BA2;
+}
+
+#container{
+    text-align: center;
+    margin:auto;
+    width:250px;
+    height:250px;
+    background-color:#F2A490;
+    display: block;
+    padding: 20px;
+    border: 1px solid;
+}
+#countLable{
+    display:block;
+    font-size: 5em;
+    margin-top:40px ;
+}
+.buttons{
+    background-color: #e15668;
+    font-size: 1em;
+    margin-top: 85px;
+}
+.buttons:hover{
+    background-color:#de5b6da5 ;
+}
